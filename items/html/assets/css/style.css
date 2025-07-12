@@ -497,6 +497,7 @@ progress {
 .lead {
   font-size: 1.25rem;
   font-weight: 400;
+  color: white;
 }
 
 .display-1 {
@@ -18683,7 +18684,8 @@ a.navbar-toggler {
 }
 
 .topbar1-icons {
-  border: 1px solid var(--bs-gray-700);
+  border: 1px solid white;
+  color: white;
   border-radius: 50%;
   font-size: 23px;
   width: 48px;
