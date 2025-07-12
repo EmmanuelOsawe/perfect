@@ -113,7 +113,7 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
   font-family: var(--bs-headings-font-family, "Roboto Slab", serif);
   font-weight: 700;
   line-height: 1.2;
-  color: var(--bs-headings-color, white);
+  color: var(--bs-headings-color, Orange);
 }
 
 h1, .h1 {
@@ -497,6 +497,7 @@ progress {
 .lead {
   font-size: 1.25rem;
   font-weight: 400;
+  font-style: italic;
   color: white;
 }
 
@@ -18766,8 +18767,8 @@ a.navbar-toggler {
 
 .btn-header {
   --bs-navbar-nav-link-padding-x: 30px;
-  color: var(--bs-primary);
-  background-color: var(--bs-black);
+  color: lightblue;
+  background-color: var(--bs-primary);
   text-transform: uppercase;
   transition: all 0.4s ease-in-out;
 }
