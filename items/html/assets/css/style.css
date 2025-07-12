@@ -495,7 +495,7 @@ progress {
 }
 
 .lead {
-  font-size: 1.25rem;
+  font-size: 1.3rem;
   font-weight: 400;
   font-style: italic;
   color: white;
@@ -10560,6 +10560,7 @@ fieldset:disabled .btn {
 
 .text-uppercase {
   text-transform: uppercase !important;
+  color: orange !important;
 }
 
 .text-capitalize {
@@ -18766,14 +18767,16 @@ a.navbar-toggler {
 }
 
 .btn-header {
+  opacity:0.8;
   --bs-navbar-nav-link-padding-x: 30px;
-  color: lightblue;
+  color: var(--bs-white);
   background-color: var(--bs-primary);
   text-transform: uppercase;
   transition: all 0.4s ease-in-out;
 }
 
 .btn-header:hover {
+  opacity:2;
   color: var(--bs-white);
   background-color: var(--bs-primary);
 }
