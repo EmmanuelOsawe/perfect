@@ -3336,6 +3336,7 @@ textarea.form-control-lg {
 
 .input-group {
   position: relative;
+  background-color: #daa520;
   display: -ms-flexbox;
   display: flex;
   -ms-flex-wrap: wrap;
@@ -17848,10 +17849,12 @@ h1, .h1, h2, .h2, h3, .h3 {
   background-size: 20px auto;
   -webkit-transform: rotate(-90deg);
           transform: rotate(-90deg);
-  background-color: var(--bs-dark);
+  background-color: orange;
+  opacity: 0.5;
 }
 
 .back-to-top:hover {
+  opacity:1.5;
   background-color: var(--bs-primary);
 }
 
