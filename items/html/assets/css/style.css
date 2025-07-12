@@ -8063,7 +8063,7 @@ fieldset:disabled .btn {
 
 .text-bg-dark {
   color: #ffffff !important;
-  background-color: RGBA(33, 37, 41, var(--bs-bg-opacity, 1)) !important;
+  background-color: darkmagenta;
 }
 
 .link-primary {
@@ -10406,7 +10406,7 @@ fieldset:disabled .btn {
 }
 
 .gap-4 {
-  gap: 1.5rem !important;
+  gap: 5.8rem !important;
 }
 
 .gap-5 {
@@ -10708,7 +10708,7 @@ fieldset:disabled .btn {
 
 .bg-dark {
   --bs-bg-opacity: 1;
-  background-color: rgba(var(--bs-dark-rgb), var(--bs-bg-opacity)) !important;
+  background-color: black;
 }
 
 .bg-black {
