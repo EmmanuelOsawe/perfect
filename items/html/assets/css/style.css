@@ -114,7 +114,7 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
   font-family: var(--bs-headings-font-family, "Roboto Slab", serif);
   font-weight: 700;
   line-height: 1.2;
-  color: var(--bs-headings-color, Orange);
+  color: var(--bs-headings-color, #ffa500);
 }
 
 h1, .h1 {
@@ -4696,14 +4696,14 @@ fieldset:disabled .btn {
 .navbar {
   --bs-navbar-padding-x: 0;
   --bs-navbar-padding-y: 0;
-  --bs-navbar-color: var(--bs-headings-color, white);
+  --bs-navbar-color: var(--bs-headings-color, #ffffff);
   --bs-navbar-hover-color: rgba(0, 0, 0, 0.7);
   --bs-navbar-disabled-color: rgba(0, 0, 0, 0.3);
   --bs-navbar-active-color: var(--bs-primary);
   --bs-navbar-brand-padding-y: 0;
   --bs-navbar-brand-margin-end: 1rem;
   --bs-navbar-brand-font-size: 1.25rem;
-  --bs-navbar-brand-color: var(--bs-headings-color, white);
+  --bs-navbar-brand-color: var(--bs-headings-color, #ffffff);
   --bs-navbar-brand-hover-color: var(--bs-primary);
   --bs-navbar-nav-link-padding-x: 12.5px;
   --bs-navbar-toggler-padding-y: 0.25rem;
