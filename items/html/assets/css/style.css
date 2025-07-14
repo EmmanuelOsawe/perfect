@@ -10707,7 +10707,7 @@ fieldset:disabled .btn {
 
 .bg-light {
   --bs-bg-opacity: 1;
-  background-color:  black !important;
+  background-color: black !important;
 }
 
 .bg-dark {
@@ -19967,7 +19967,7 @@ a.navbar-toggler {
 }
 
 .banner-section {
-  background: url("assets/images/logo.jpeg") no-repeat scroll center center/cover;
+  background: url("../images/barbber 1.jpg") no-repeat scroll center center/cover;
   position: relative;
   padding: 120px 0;
 }
