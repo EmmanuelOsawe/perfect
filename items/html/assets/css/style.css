@@ -20108,6 +20108,10 @@ a.navbar-toggler {
   background: url("../images/customer 16.jpg") no-repeat fixed center center/cover;
 }
 
+.best{
+  color:white
+}
+
 .swiper-btn .btn-style-2 {
   --swiper-theme-color: transparent;
   --border-color: rgba(var(--bs-white-rgb), .3);
