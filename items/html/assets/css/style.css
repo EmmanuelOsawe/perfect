@@ -19967,7 +19967,7 @@ a.navbar-toggler {
 }
 
 .banner-section {
-  background: url(../images/about-header-bg.png) no-repeat scroll center center/cover;
+  background: url("assets/images/logo.jpeg") no-repeat scroll center center/cover;
   position: relative;
   padding: 120px 0;
 }
