@@ -18234,6 +18234,10 @@ input:focus {
   border: 1px solid var(--bs-accordion-border-color);
 }
 
+.details {
+  color: white;
+}
+
 .card-styller {
   --bs-card-bg: none;
   max-width: 20.625rem;
