@@ -10710,6 +10710,12 @@ fieldset:disabled .btn {
   background-color: black !important;
 }
 
+.bg-checkout {
+    --bs-bg-opacity: 1;
+  background-color: blue !important;
+}
+
+
 .bg-dark {
   --bs-bg-opacity: 1;
   background-color: black;
